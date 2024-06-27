@@ -1,0 +1,87 @@
+.playerPic {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.playerDiv {
+  width: 250px;
+  height: 450px;
+  background-color: blanchedalmond;
+  display: inline-block;
+  border: 2px solid black;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+}
+.rohitDiv {
+  background: antiquewhite url("./images/Mumbai_Indians_Logo.svg.png") no-repeat
+    center bottom;
+  background-size: 100px 100px;
+}
+.viratDiv {
+  background-image: url("./images/Royal_Challengers_Bengaluru_Logo.png");
+  background-attachment: fixed;
+}
+.shreyasDiv {
+  background: antiquewhite url("./images/Kolkata.png") no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bumrahDiv {
+  border: 20px solid black;
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  background-color: coral;
+  display: inline-block;
+  background-image: url("./images/istockphoto-157181750-612x612.jpg");
+  background-repeat: no-repeat;
+  background-origin: border-box;
+}
+.bumrahDiv2 {
+  border: 20px solid black;
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  background-color: coral;
+  display: inline-block;
+  background-image: url("./images/istockphoto-157181750-612x612.jpg");
+  background-repeat: no-repeat;
+  background-origin: content-box;
+}
+.bumrahPic {
+  width: 250px;
+  height: 250px;
+}
+#bumrahPic2 {
+  width: 250px;
+  height: 250px;
+  opacity: 0.2;
+}
+.bumrahDiv3 {
+  border: 40px dotted black;
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  background-color: coral;
+  display: inline-block;
+  background-clip: border-box;
+}
+.bumrahDiv4 {
+  border: 40px dotted black;
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  background-color: coral;
+  display: inline-block;
+  background-clip: padding-box;
+}
+.bumrahDiv5 {
+  border: 40px dotted black;
+  width: 200px;
+  height: 200px;
+  padding: 50px;
+  background-color: coral;
+  display: inline-block;
+  background-clip: content-box;
+}
